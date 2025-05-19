@@ -30,3 +30,4 @@ VsCode: Acomodar la carpeta y correr: npm install vite --save-dev && npm run dev
 Dependencias y pasos de instalación. ✓
 
 Appweb: https://graceful-brigadeiros-c06850.netlify.app/
+Git https: https://github.com/Jipi0303/App-tarea.git
